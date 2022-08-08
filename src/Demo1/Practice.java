@@ -9,4 +9,10 @@ public class Practice {
 		System.out.println("Hedia..");
 
 }
+	
+public Static void add(int a , int b ) {
+	System.out.println(a+b);
+	
+	
+	
 }
